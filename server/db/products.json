@@ -1,0 +1,44 @@
+[
+  {
+    "id_product": 100,
+    "product_name": "Куртка",
+    "price": 4500,
+    "imgProduct": "./img/products/100.jpg",
+    "imgCart": "./img/cart/100.png"
+  },
+  {
+    "id_product": 200,
+    "product_name": "Костюм",
+    "price": 10000,
+    "imgProduct": "./img/products/200.jpg",
+    "imgCart": "./img/cart/200.png"
+  },
+  {
+    "id_product": 278,
+    "product_name": "Бермуды",
+    "price": 1600,
+    "imgProduct": "./img/products/278.jpg",
+    "imgCart": "./img/cart/278.png"
+  },
+  {
+    "id_product": 792,
+    "product_name": "Футболка",
+    "price": 800,
+    "imgProduct": "./img/products/792.jpg",
+    "imgCart": "./img/cart/792.png"
+  },
+  {
+    "id_product": 256,
+    "product_name": "Пиджак",
+    "price": 5700,
+    "imgProduct": "./img/products/256.jpg",
+    "imgCart": "./img/cart/256.png"
+  },
+  {
+    "id_product": 370,
+    "product_name": "Блузка",
+    "price": 1500,
+    "imgProduct": "./img/products/370.jpg",
+    "imgCart": "./img/cart/370.png"
+  }
+]
